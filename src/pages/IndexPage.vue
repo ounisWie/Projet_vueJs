@@ -4,7 +4,7 @@
       <!-- interpolation -->
       {{ name }} - {{ age }}
       <button @click="changeName('hayfa')">change Name</button>
-      <button @click="changeAge(70)">change Age</button>
+      <button @click="changeAge(70)">change age</button>
     </p>
   </div>
 </template>
